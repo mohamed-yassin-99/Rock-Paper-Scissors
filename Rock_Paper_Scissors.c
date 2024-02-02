@@ -96,7 +96,7 @@ int main()
     }
     else 
     {
-        printf ("INvilaid System");
+        printf ("Erorr");
     }
 
 
